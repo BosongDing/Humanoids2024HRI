@@ -23,7 +23,7 @@ To run the interaction demo of the NAO robot with the ASD system:
 
 ## Training Code
 
-The training code for the VAE and MLP models can be found in the `root` folder. Follow the instructions within the folder to train and test the models using the provided data.
+The training code for the VAE and MLP models can be found in the corresponding files. The pre-trained models are in `ASD_move` Folder
 
 ## Data
 
