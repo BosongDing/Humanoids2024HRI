@@ -27,7 +27,7 @@ The training code for the VAE and MLP models can be found in the corresponding f
 
 ## Data
 
-The `taj_raw` folder contains the trajectory data used in the study. This data is unpadded and provided in raw format for further analysis and use.
+The `taj_raw.pkl` contains the trajectory data used in the study. This data is unpadded and provided in raw format for further analysis and use.
 
 ## Citation
 
